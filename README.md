@@ -6,7 +6,7 @@
 
 ## General Info
 This browser based web application to ...
-	
+
 ## Technologies
 Technologies used for this project:
 * HTML, CSS
@@ -21,7 +21,8 @@ Content of the project folder:
  Top level of project folder: 
 ├── .gitignore               # Git ignore file
 ├── index.html               # landing HTML file, this is what users see when you come to url
-└── README.md
+├── README.md
+└── recent.html --> Steven
 
 It has the following subfolders and files:
 ├── .git                     # Folder for git repo
