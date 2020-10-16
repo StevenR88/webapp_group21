@@ -22,7 +22,8 @@ Content of the project folder:
 ├── .gitignore               # Git ignore file
 ├── index.html               # landing HTML file, this is what users see when you come to url
 ├── README.md
-└── recent.html --> Steven
+├── recent.html              # Steven
+├── edit.html                # Tony Nan
 
 It has the following subfolders and files:
 ├── .git                     # Folder for git repo
